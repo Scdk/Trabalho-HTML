@@ -1,0 +1,105 @@
+		.inicio{
+			background-color: #ffae42;
+			width: 50%;
+			display: block;
+    		margin-left: 285px;
+    		margin-right: auto;
+			border: solid white;
+		}
+		.imagens{
+			border: solid white;
+			margin-left: 140px;
+			width: 442px;
+			height: 333px;
+		}
+		.titulo{
+    		color: black;
+       		text-align: center;
+       		font-family: Source Sans Pro;
+		}
+		body {
+			background-image: url("http://bsnscb.com/data/out/86/27305842-gif-wallpapers.gif");
+			background-repeat: repeat-y;
+		}
+		.subtitulo{
+			color: black;
+       		text-align: center;
+       		background-color: #ffae42;
+			width: 99%;
+			display: block;
+    		margin-left: auto;
+    		margin-right: auto;
+			border: solid white;
+    		font-family: Source Sans Pro;
+		}
+		.triste{
+			background-color: #ffae42;
+			border: solid white;
+			width: 4%;
+			margin-left: 325px;
+			font-family: Source Sans Pro;
+			text-align: center;
+		}
+		.caixa{
+			display: flex;
+		}
+		.lista{
+			display: inline;
+			display: flex;
+		}
+		.feliz{
+			background-color: #ffae42;
+			border: solid white;
+			width: 4%;
+			margin-left: 510px;
+			font-family: Source Sans Pro;
+			text-align: center;
+		}
+		.otaku{
+			background-color: #ffae42;
+			border: solid white;
+			width: 4%;
+			margin-left: 510px;
+			font-family: Source Sans Pro;
+			text-align: center;
+		}
+		.cuck{
+			background-color: #ffae42;
+			border: solid white;
+			width: 4%;
+			margin-left: 325px;
+			font-family: Source Sans Pro;
+			text-align: center;
+		}
+		.redimensiona{
+			width: 442px;
+			height: 333px;
+		}
+		.culto{
+			background-color: #ffae42;
+			border: solid white;
+			width: 4%;
+			margin-left: 510px;
+			font-family: Source Sans Pro;
+			text-align: center;
+		}
+		.emo{
+			background-color: #ffae42;
+			border: solid white;
+			width: 4%;
+			margin-left: 510px;
+			font-family: Source Sans Pro;
+			text-align: center;
+		}
+		.botao{
+			color: black;
+       		text-align: center;
+       		font-family: Source Sans Pro;
+       		background-color: #ffae42;
+			width: 10%;
+			display: block;
+			border: solid white;
+			line-height:150px;
+			cursor: pointer;
+			margin-left: 5px;
+		}
